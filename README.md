@@ -1,0 +1,2 @@
+# Smart-CropGuard-Innovating-Disease-Detection-with-Inception-CNN-and-LSTM-Peephole-Networks
+This study proposes a deep learning model combining Inception ResNet V2 and LSTM with peephole connections for plant disease detection. It achieves high accuracy and efficiency in disease classification, enhancing agricultural sustainability. For full details, visit [IEEE Xplore](https://ieeexplore.ieee.org/document/10620471).
