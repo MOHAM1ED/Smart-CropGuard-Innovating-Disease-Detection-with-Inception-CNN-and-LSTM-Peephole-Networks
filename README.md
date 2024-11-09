@@ -89,9 +89,6 @@ Looking forward, ongoing refinements, further exploration of additional datasets
 
 Distributed under the MIT License. See `LICENSE` for more information.
 
-Here’s the updated **References** section with the link to your paper:
-
----
 
 ## References
 
@@ -107,5 +104,4 @@ Here’s the updated **References** section with the link to your paper:
 10. Lee, S. H., Goëau, H., Bonnet, P., & Joly, A. Attention-Based Recurrent neural network for plant disease classification. *Frontiers in Plant Science*, 11. [DOI](https://doi.org/10.3389/fpls.2020.601250)
 11. Faye, M., Chen, B., & Sada, K. A. Plant Disease Detection with Deep Learning and Feature Extraction Using Plant Village. *Journal of Computer and Communications*, 08(06), 10–22. [DOI](https://doi.org/10.4236/jcc.2020.86002)
 12. [My Paper](https://ieeexplore.ieee.org/document/10620471)
-13. 
 ---
